@@ -1,11 +1,4 @@
-"""Standalone Streamlit UI for MatchPulse AI Personalised Planning.
 
-Run from the project root:
-    streamlit run personalised_planning_app.py
-
-This app is intentionally separate from the existing app.py.
-Fixtures are synthetic and must not be treated as real-world schedules.
-"""
 from __future__ import annotations
 
 import os

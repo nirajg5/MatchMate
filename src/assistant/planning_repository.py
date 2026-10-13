@@ -1,8 +1,4 @@
-"""SQLite persistence layer for MatchPulse AI Personalised Planning.
 
-This module stores user planning data locally. Synthetic match fixtures remain
-in JSON and are not copied into the database.
-"""
 from __future__ import annotations
 
 import json
