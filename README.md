@@ -34,7 +34,7 @@ Cricket fans, especially students and working professionals, struggle to follow 
 
 ## 🏗️ How It Works
 
-![Match_mate architecture](image/flowchart.png)
+![Match_mate architecture](flowdiagram.png)
 
 ## 🛠️ Technology Stack
 
